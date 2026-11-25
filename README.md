@@ -1,5 +1,9 @@
 # One Star for Monday
 
+[![Make.fun](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61)
+[![Rank](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/dwi085/makefun-one-star-monday-20261125/rank.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61/leaderboard)
+[![Reward](https://make.fun/badge/u-clever-harbor-75-one-star-for-monday-9ead4a61/dwi085/makefun-one-star-monday-20261125/reward.svg)](https://make.fun/bounty/u-clever-harbor-75-one-star-for-monday-9ead4a61)
+
 [![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-clever-harbor-75-one-star-for-monday-9ead4a61)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
